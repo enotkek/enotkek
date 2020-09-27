@@ -1,4 +1,4 @@
-![EnotKEK3 github stats](https://github-readme-stats.vercel.app/api?username=enotkek&show_icons=true&theme=radical)
+![EnotKEK3 github stats](https://github-readme-stats.vercel.app/api?username=enotkek&show_icons=true&theme=tokyonight)
 ## Привет!
 Я не знаю что ты тут забыл, что ты тут делаешь, но знай, спиздишь мой код, я тебя найду, и призву ♂️ Dungeon Master ♂️
 
