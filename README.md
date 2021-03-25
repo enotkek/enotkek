@@ -15,6 +15,6 @@ And yes, I from Proxima Centauri B (lying)
 
 ## 🐧 Stats
 
-![Zeroel github stats](https://github-readme-stats.vercel.app/api?username=Zer0el&show_icons=true&theme=nightowl&bg_color=0,0f0c29,302b63,24243e)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zer0el&hide=html&theme=nightowl&bg_color=0,0f0c29,302b63,24243e)
+![Zeroel github stats](https://github-readme-stats.vercel.app/api?username=Zer0el&show_icons=true&theme=nightowl&bg_color=45,0f0c29,302b63,24243e)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zer0el&hide=html&theme=nightowl&bg_color=45,0f0c29,302b63,24243e)
 <br>
