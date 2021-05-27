@@ -6,7 +6,7 @@
 
 ## 🐧 About me
 I'am Web developer, besides programming I learning physics. <br>
-Listens rock, metalcore, deathcore (Favorite bands: Annisokay, Crossfaith, The Brovning, Slipknot, Crystal Lake). <br>
+Listens rock, metalcore, deathcore (Favorite bands: Annisokay, Crossfaith, The Browning, Slipknot, Crystal Lake). <br>
 Usually write frontend and backend, same can write bots in discord.js <br>
 Spk in Russian, English <br>
 And yes, I from Proxima Centauri B (lying) <br>
