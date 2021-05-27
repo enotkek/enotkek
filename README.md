@@ -1,5 +1,3 @@
-<img src="Files/Avatar.png" align="right" width="200" height="200" />
-
 ## 🐧 Zer0el <br> Fullstack web dev
 **I write code in:** Javascript, HTML, CSS, SCSS <br>
 **Platform:** Node.js <br>
@@ -12,6 +10,7 @@ Listens rock, metalcore, deathcore (Favorite bands: Annisokay, Crossfaith, The B
 Usually write frontend and backend, same can write bots in discord.js <br>
 Spk in Russian, English <br>
 And yes, I from Proxima Centauri B (lying)
+P.s Linux the best
 
 ## 🐧 Stats
 
