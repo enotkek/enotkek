@@ -17,5 +17,5 @@ P.s Linux the best
 ![](https://github-readme-stats.vercel.app/api?username=Nullelektron&show_icons=true&theme=buefy)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nullelektron&hide=html&theme=buefy)
 <br>
-[Nullelektron wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nullelektron&theme=byefyk&layout=compact)]
+[Nullelektron wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nullelektron&theme=byefyk&layout=compact)
 <br>
