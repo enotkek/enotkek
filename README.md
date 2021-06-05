@@ -14,8 +14,13 @@ P.s Linux the best
 
 ## 🐧 Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Nullelektron&show_icons=true&theme=buefy)
+**Most used langs:** <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nullelektron&hide=html&theme=buefy&layout=compact)
 <br>
-![Nullelektron wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nullelektron&theme=byefyk&layout=compact)
+**Current project:** <br>
+![](https://github-readme-stats.vercel.app/api/pin/?username=Nullelektron&repo=Nulleron&theme=buefy)
+<br><br><br>
+**Other:**<br>
+![](https://github-readme-stats.vercel.app/api?username=Nullelektron&show_icons=true&theme=buefy)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=Nullelektron&theme=byefyk&layout=compact)
 <br>
