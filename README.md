@@ -21,6 +21,6 @@ P.s Linux the best
 ![](https://github-readme-stats.vercel.app/api/pin/?username=Nullelektron&repo=Nulleron&theme=buefy)
 <br><br><br>
 **Other:**<br>
-![](https://github-readme-stats.vercel.app/api?username=Nullelektron&show_icons=true&theme=buefy)
+![](https://github-readme-stats.vercel.app/api?username=Nullelektron&show_icons=true&theme=buefy) <br>
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=Nullelektron&theme=byefy)
 <br>
