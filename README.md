@@ -16,9 +16,7 @@ P.s Linux the best
 
 **Most used langs:** <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nullelektron&hide=html&theme=buefy&layout=compact)
-<br>
-**Current project:** <br>
-![](https://github-readme-stats.vercel.app/api/pin/?username=Nullelektron&repo=Nulleron&theme=buefy)
+
 <br><br><br>
 **Other:**<br>
 ![](https://github-readme-stats.vercel.app/api?username=Nullelektron&show_icons=true&theme=buefy&locale=ru) <br>
