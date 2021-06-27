@@ -1,4 +1,4 @@
-## 🐧 Zer0el <br> Fullstack web dev
+## 🐧 Nullelektron <br> Fullstack web dev
 **⌨️ I write code in:** Javascript, HTML, CSS, SCSS <br>
 **🔧 Platform:** Node.js <br>
 **📁 Frameworks / libs:** Vue.js, Express.js <br>
@@ -18,6 +18,5 @@ P.s Linux the best
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nullelektron&hide=html&theme=buefy&layout=compact)
 <br>
 **Other:**<br>
-![](https://github-readme-stats.vercel.app/api?username=Nullelektron&show_icons=true&theme=buefy&locale=ru) <br>
-![](https://github-readme-stats.vercel.app/api/wakatime?username=Nullelektron&theme=byefy)
+![](https://github-readme-stats.vercel.app/api?username=Nullelektron&show_icons=true&theme=buefy&locale=ru)
 <br>
