@@ -1,7 +1,6 @@
 ## 🐧 Nullelektron <br>
 **🔧 Platform:** Node.js <br>
 **📁 Frameworks / libs:** Vue.js, Express.js <br>
-**🧪 Experience:** Frontend - Junior + / Backend - Junior <br>
 
 ## 🐧 About me
 Usually write frontend and backend, same can write bots in discord.js <br>
