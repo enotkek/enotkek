@@ -1,5 +1,4 @@
 ## 🐧 Nullelektron <br>
-**⌨️ I write code in:** Node.js <br>
 **🔧 Platform:** Node.js <br>
 **📁 Frameworks / libs:** Vue.js, Express.js <br>
 **🧪 Experience:** Frontend - Junior + / Backend - Junior <br>
